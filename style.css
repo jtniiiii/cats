@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+}
+
+.container {
+	weight: 1366px;
+	height: 539px;
+	margin: 0 auto;
+	display: flex;
+	padding: 40px 95px 40px 95px;
+}
+
+.news-img-vertical {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.news-img-column {
+	display: flex;
+	gap: 10px;
+}
+
+.section-title {
+	margin-top: 40px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+}
+
+.p {
+	font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 169.92%;
+}
